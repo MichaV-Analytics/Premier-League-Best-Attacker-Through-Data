@@ -1,8 +1,16 @@
-## The Greatest Premier League Attacker
+# The Greatest Premier League Attacker
+
+## Research Question
+
+**Using publicly available statistics, which player has the strongest statistical case for being the greatest attacker in Premier League history?**
+
+---
 
 ## Project Goal
 
-This project uses statistics and data analysis to evaluate the greatest attacker in Premier League history.
+The goal of this project is to compare some of the greatest attacking players in Premier League history using objective data rather than opinion. Instead of asking "Who is the GOAT?", this project evaluates each player across multiple statistical categories, including goalscoring, creativity, efficiency, longevity, peak performance, and team success.
+
+---
 
 ## Players Included
 
@@ -16,22 +24,65 @@ This project uses statistics and data analysis to evaluate the greatest attacker
 - Harry Kane
 - Luis Suárez
 - Didier Drogba
+- Robin van Persie
+- Michael Owen
+- Ruud van Nistelrooy
+- Jamie Vardy
+- Sadio Mané
+- Robbie Fowler
+- Dennis Bergkamp
+- Frank Lampard
+- Carlos Tevez
+- Andrew Cole
 
-## Questions
+---
 
-Rather than asking "Who is the GOAT?", this project asks:
+## Statistics Being Compared
 
-- Who scored most efficiently?
-- Who created the most chances?
-- Who performed best relative to their era?
-- Which player had the strongest overall statistical profile?
+### Career
+- Appearances
+- Minutes Played
+- Goals
+- Assists
+- Goal Contributions
 
-## Tools (Coming Soon)
+### Goalscoring
+- Goals per 90
+- Non-Penalty Goals
+- Minutes per Goal
+- Hat Tricks
+- Golden Boots
 
-- Excel
-- Python
+### Creativity
+- Assists per 90
+- Big Chances Created
+
+### Efficiency
+- Goal Contributions per 90
+- Shot Conversion %
+
+### Longevity
+- Seasons Played
+- Seasons with 20+ Goals
+
+### Peak
+- Goals in Best Season
+- Goal Contributions in Best Season
+
+### Success
+- Premier League Titles
+- Premier League Player of the Season Awards
+
+---
+
+## Tools
+
 - GitHub
+- Excel
+- Python (coming soon)
 
-## Status
+---
 
-🚧 Project just started.
+## Project Status
+
+🚧 Currently collecting and organizing player data.
