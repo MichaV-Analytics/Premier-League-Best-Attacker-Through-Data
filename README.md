@@ -8,7 +8,7 @@
 
 ## Project Goal
 
-The goal of this project is to compare some of the greatest attacking players in Premier League history using objective data rather than opinion. Instead of asking "Who is the GOAT?", this project evaluates each player across multiple statistical categories, including goalscoring, efficiency, longevity, peak performance, and team success.
+The goal of this project is to compare some of the greatest attacking players in Premier League history using objective data rather than opinion. Instead of asking "Who is the GOAT?", this project evaluates each player across multiple statistical categories, including goalscoring, efficiency, longevity, and peak performance
 
 ---
 
@@ -64,10 +64,6 @@ The goal of this project is to compare some of the greatest attacking players in
 ### Peak
 - Goals in Best Season
 - Goal Contributions in Best Season
-
-### Success
-- Premier League Titles
-- Premier League Player of the Season Awards
 
 ---
 
