@@ -1,4 +1,4 @@
-# The Greatest Premier League Attacker
+# Who Is the Greatest Premier League Attacker? A Statistical Analysis
 
 ## Research Question
 
