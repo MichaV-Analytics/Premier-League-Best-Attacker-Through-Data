@@ -8,7 +8,7 @@
 
 ## Project Goal
 
-The goal of this project is to compare some of the greatest attacking players in Premier League history using objective data rather than opinion. Instead of asking "Who is the GOAT?", this project evaluates each player across multiple statistical categories, including goalscoring, creativity, efficiency, longevity, peak performance, and team success.
+The goal of this project is to compare some of the greatest attacking players in Premier League history using objective data rather than opinion. Instead of asking "Who is the GOAT?", this project evaluates each player across multiple statistical categories, including goalscoring, efficiency, longevity, peak performance, and team success.
 
 ---
 
@@ -52,10 +52,6 @@ The goal of this project is to compare some of the greatest attacking players in
 - Minutes per Goal
 - Hat Tricks
 - Golden Boots
-
-### Creativity
-- Assists per 90
-- Big Chances Created
 
 ### Efficiency
 - Goal Contributions per 90
