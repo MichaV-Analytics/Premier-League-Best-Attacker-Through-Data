@@ -1,80 +1,44 @@
-# Who Is the Greatest Premier League Attacker? A Statistical Analysis
+# Premier League Attacking Analysis
 
-## Research Question
+## Project Question
 
-**Using publicly available statistics, which player has the strongest statistical case for being the greatest attacker in Premier League history?**
+Who are the greatest Premier League attackers when balancing career production and attacking efficiency?
 
----
+## Overview
 
-## Project Goal
+This project creates a scoring model to compare Premier League attackers using both career totals and efficiency statistics.
 
-The goal of this project is to compare some of the greatest attacking players in Premier League history using objective data rather than opinion. Instead of asking "Who is the GOAT?", this project evaluates each player across multiple statistical categories, including goalscoring, efficiency, longevity, and peak performance
-
----
-
-## Players Included
-
-- Alan Shearer
-- Thierry Henry
-- Wayne Rooney
-- Mohamed Salah
-- Cristiano Ronaldo
-- Sergio Agüero
-- Erling Haaland
-- Harry Kane
-- Luis Suárez
-- Didier Drogba
-- Robin van Persie
-- Michael Owen
-- Ruud van Nistelrooy
-- Jamie Vardy
-- Sadio Mané
-- Robbie Fowler
-- Dennis Bergkamp
-- Frank Lampard
-- Carlos Tevez
-- Andrew Cole
-
----
-
-## Statistics Being Compared
-
-### Career
-- Appearances
-- Minutes Played
-- Goals
+The analysis considers:
+- Non-penalty goals
 - Assists
-- Goal Contributions
-
-### Goalscoring
+- Goal contributions
 - Goals per 90
-- Non-Penalty Goals
-- Minutes per Goal
-- Hat Tricks
-- Golden Boots
+- Assists per 90
+- Goal contributions per 90
 
-### Efficiency
-- Goal Contributions per 90
-- Shot Conversion %
+## Models Created
 
-### Longevity
-- Seasons Played
-- Seasons with 20+ Goals
+### Career Score
+Measures long-term production and career accomplishments.
 
-### Peak
-- Goals in Best Season
-- Goal Contributions in Best Season
+### Efficiency Score
+Measures attacking output relative to playing time.
 
----
+### Balanced Score
+Combines career value and efficiency to identify the most complete attackers.
 
-## Tools
+## Results
 
-- GitHub
-- Excel
-- Python (coming soon)
+The balanced model ranked Thierry Henry as the highest overall attacker, with Erling Haaland, Sergio Agüero, and Mohamed Salah also ranking highly.
 
----
+## Visualizations
 
-## Project Status
+### Career vs Efficiency
 
-🚧 Currently collecting and organizing player data.
+![Career vs Efficiency](images/career_vs_efficiency.png)
+
+### Player Rankings
+
+![Player Rankings](images/player_rankings.png)
+
+
